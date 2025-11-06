@@ -1,4 +1,4 @@
-## Кастомный Select без JS (БЭМ, семантика)
+## Кастомный Select 
 
 Проект содержит нативный `<select>` со стилизацией без JavaScript, оформленный по БЭМ. Реализованы состояния `:hover`, `:focus-visible`, `:invalid`, `:disabled`, плавные переходы, адаптация для тёмной темы и режимов доступности.
 
@@ -68,4 +68,5 @@
 <div class="select select_size_m">...</div>
 <div class="select select_size_l">...</div>
 ```
+
 
